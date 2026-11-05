@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Cached feature matrices are cheap to regenerate; don't commit them.
+data/cache/

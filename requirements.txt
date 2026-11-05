@@ -1,0 +1,12 @@
+# Versions this scaffold was developed and run against (Python 3.13).
+# matminer pulls in pymatgen, which supplies the Composition parser.
+pandas==2.3.3
+numpy==2.5.4
+scikit-learn==1.9.1
+matminer==0.10.1
+pymatgen==2026.10.24
+matplotlib==3.11.2
+# Only needed to (re-)execute the EDA notebook headlessly.
+nbconvert==7.17.2
+nbformat
+ipykernel
